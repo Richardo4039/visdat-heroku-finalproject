@@ -1,1 +1,0 @@
-bokeh serve --port 5000 --show app
