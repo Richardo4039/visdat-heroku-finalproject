@@ -153,7 +153,7 @@ theme = 'caliber'
 
 
 total_case_template = ("""
-    <div style="width:0px;visible:hidden;">
+    <div style="width:150px;visibility:hidden;">
         <div class="card text-center w-100">
             <div class="card-header bg-{color}">
                 <h5 class="m-0">Local {case}</h5>
